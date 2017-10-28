@@ -3,7 +3,7 @@ title = "Boof Baf Radio"
 languageCode = "de-de"
 paginate = "20" # Number of posts per page
 theme = "mainroad"
-disqusShortname = "sebastian_kremer" # Enable comments by entering your Disqus shortname
+disqusShortname = "boofbaf-radio" # Enable comments by entering your Disqus shortname
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 publishDir = "docs"
 
