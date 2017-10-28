@@ -1,0 +1,6 @@
+[submodule "themes/mainroad"]
+	path = themes/mainroad
+	url = https://github.com/radio-boofbaf/Mainroad.git
+[submodule "themes/stage"]
+	path = themes/stage
+	url = https://github.com/noahlange/stage
