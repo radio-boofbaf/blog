@@ -5,6 +5,7 @@ paginate = "20" # Number of posts per page
 theme = "mainroad"
 disqusShortname = "sebastian_kremer" # Enable comments by entering your Disqus shortname
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
+publishDir = "docs"
 
 [Author] # Used in authorbox
     name = "Sebastian Kremer"
