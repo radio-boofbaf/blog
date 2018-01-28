@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "http://boofbaf.de/"
 title = "Boof Baf Radio"
 languageCode = "de-de"
 paginate = "20" # Number of posts per page

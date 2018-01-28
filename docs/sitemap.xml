@@ -3,29 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/posts/my-first-post/</loc>
+    <loc>http://boofbaf.de/posts/my-first-post/</loc>
     <lastmod>2017-10-28T20:57:19+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2017-10-28T20:57:19+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/posts/</loc>
+    <loc>http://boofbaf.de/</loc>
     <lastmod>2017-10-28T20:57:19+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>http://boofbaf.de/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://boofbaf.de/posts/</loc>
+    <lastmod>2017-10-28T20:57:19+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://boofbaf.de/tags/</loc>
     <priority>0</priority>
   </url>
   
