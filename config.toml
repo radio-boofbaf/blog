@@ -36,3 +36,6 @@ publishDir = "docs"
     social_twitter = "username"
     social_instagram = "username"
     social_youtube = "username"
+
+[permalinks]
+    post = "/:year/:month/:title/"
